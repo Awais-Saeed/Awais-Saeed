@@ -2,11 +2,10 @@
 
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/Awais-Saeed/Awais-Saeed/assets/55776799/d247742d-1d50-4945-aa9a-426edef79697)
 
-
 - An enthusiast who loves physics to understand nature.
 - An Electrical Engineer
 - Publication in IEEE Access
-- Loves to explore the world of programming
+- Loves to explore 🔍 the world of programming
 - I have been learning to program to automate things around me
 
 ## Technologies/Tools I Use:
